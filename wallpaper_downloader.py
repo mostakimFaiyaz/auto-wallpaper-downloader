@@ -6,7 +6,7 @@ from io import BytesIO
 from random import choice
 
 
-API_KEYWORDS = ["ghibli", "movie", "abstract", "fantasy art", "TV series", "anime"]
+API_KEYWORDS = ["ghibli", "movie", "abstract", "futuristic", "illustration", "anime"]
 SAVE_DIR = os.path.join(os.getcwd(), "wallpapers")
 MAX_IMAGES = 30
 DOWNLOAD_COUNT = 3
